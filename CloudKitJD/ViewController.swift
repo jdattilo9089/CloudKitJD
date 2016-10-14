@@ -4,7 +4,6 @@
 //
 //  Created by student3 on 10/7/16.
 //  Copyright © 2016 John Hersey High School. All rights reserved.
-//
 
 import UIKit
 import CloudKit
